@@ -3,7 +3,7 @@
 //MGvXfrMv-agyb2PhX
 let isModalOpen = false;
 let contrastToggle = false;
-const scaleFactor = 1 / 20
+const scaleFactor = 1 / 50
 
 function moveBackground(event) {
   const shapes = document.querySelectorAll(".shape");
